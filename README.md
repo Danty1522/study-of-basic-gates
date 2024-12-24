@@ -1,4 +1,6 @@
 ### study-of-basic-gates
+Developed by: CHINTALA AMAN MONTY
+Register Number: 24004776
 
 **AIM:** 
 
@@ -69,6 +71,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+
 
 **RTL realization Output:** 
 
