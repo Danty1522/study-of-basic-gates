@@ -1,6 +1,6 @@
 ### study-of-basic-gates
 Developed by: CHINTALA AMAN MONTY
-Register Number: 24004776
+Register Number: 24004776 
 
 **AIM:** 
 
